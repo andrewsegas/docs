@@ -1,1 +1,1 @@
-#utcversionation#V2.01:Abertura de Rotinas MVC sem a necessidade de BrowseDef:Consulta no SX3 para capturar o tipo de campo#\utcversionation#
+#utcversionation#V2.01:A partir do dia 25/10 Abertura de Rotinas MVC sem a necessidade de BrowseDef:Consulta no SX3 para capturar o tipo de campo#\utcversionation#
