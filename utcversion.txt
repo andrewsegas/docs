@@ -1,1 +1,1 @@
-#utcversionation#V3.00::O UTCTOOL V3.00 estará disponível a partir do dia 25/10::Melhorias: ::Abertura de Rotinas MVC sem a necessidade de BrowseDef::Consulta no SX3 para capturar o tipo de campo#\utcversionation#
+#utcversionation#V3.00::O UTCTOOL V3.00 estará disponível a partir do dia 25/10::Melhorias: ::Abertura de Rotinas MVC sem a necessidade de BrowseDef::Consulta no SX3 para capturar o tipo de campo::Geração automatica do codigo em python para o TIR#\utcversionation#
