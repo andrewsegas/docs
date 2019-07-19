@@ -1,1 +1,1 @@
-#utcversionation#V3.10::O UTCTOOL V3.10 está disponível::Melhorias: ::Abertura de Rotinas MVC sem a necessidade de BrowseDef::Geração de arquivos Case,Group e Suite::Geração do codigo em python para o TIR::Correção de Bugs#\utcversionation#
+#utcversionation#V4.00::O UTCTOOL V4.00 está disponível::Melhorias: ::Utilização de parametro no .INI para utilizar sem mudar o SmartClient.exe::Geração de arquivos para executar via Rotina Automatica::Utilização transparente com parametros no .INI::Correção de Bugs#\utcversionation#
